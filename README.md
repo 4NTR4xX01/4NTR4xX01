@@ -1,16 +1,16 @@
-[cite_start]<h1 align="center">Hola 👋, soy Eduardo Velazquez [cite: 1]</h1>
-[cite_start]<h3 align="center">Consultor en Seguridad Ofensiva [cite: 2]</h3>
+<h1 align="center">Hola 👋, soy Eduardo Velazquez </h1>
+<h3 align="center">Consultor en Seguridad Ofensiva </h3>
 
 <br>
 
 <p align="left">
-  [cite_start]Soy un Consultor en Seguridad Ofensiva en formación [cite: 5][cite_start], apasionado por la ciberseguridad ofensiva[cite: 6]. [cite_start]Cuento con experiencia práctica en pruebas de penetración, análisis de riesgos y simulación de ciberataques[cite: 5].
+  Soy un Consultor en Seguridad Ofensiva en formación, apasionado por la ciberseguridad ofensiva. ]Cuento con experiencia práctica en pruebas de penetración, análisis de riesgos y simulación de ciberataques.
 </p>
 <p align="left">
-  [cite_start]Mi enfoque es proactivo, con capacidad demostrada para identificar vulnerabilidades críticas y proponer estrategias de mitigación efectivas[cite: 6, 7]. [cite_start]He liderado proyectos de capacitación técnica en hacking ético [cite: 8] [cite_start]y actualmente lidero el proyecto universitario <strong>CyberSentinels</strong>, impartiendo talleres y desarrollando laboratorios prácticos[cite: 51].
+  Mi enfoque es proactivo, con capacidad demostrada para identificar vulnerabilidades críticas y proponer estrategias de mitigación efectivas. He liderado proyectos de capacitación técnica en hacking ético y actualmente lidero el proyecto universitario <strong>CyberSentinels</strong>, impartiendo talleres y desarrollando laboratorios prácticos.
 </p>
 <p align="left">
-  [cite_start]Busco contribuir en proyectos desafiantes que demanden visión táctica y responsabilidad técnica[cite: 9].
+  Busco contribuir en proyectos desafiantes que demanden visión táctica y responsabilidad técnica.
 </p>
 
 ---
@@ -30,9 +30,9 @@
 
 ### 💻 Habilidades Técnicas
 
-[cite_start]Mis competencias cubren el ciclo completo de una prueba de penetración, desde el reconocimiento (OSINT) hasta la explotación y el reporte. [cite: 39, 41]
+Mis competencias cubren el ciclo completo de una prueba de penetración, desde el reconocimiento (OSINT) hasta la explotación y el reporte. 
 
-#### [cite_start]Pentesting & Herramientas [cite: 26, 42]
+#### Pentesting & Herramientas 
 <p align="left">
   <img src="https://img.shields.io/badge/Nmap-E44D26?style=for-the-badge&logo=Nmap&logoColor=white" alt="Nmap" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=Burp-Suite&logoColor=white" alt="Burp Suite" />
@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/Nikto-000?style=for-the-badge&logo=Nikto&logoColor=white" alt="Nikto" />
 </p>
 
-#### [cite_start]OSINT [cite: 47]
+#### OSINT 
 <p align="left">
   <img src="https://img.shields.io/badge/Shodan-000000?style=for-the-badge&logo=Shodan&logoColor=white" alt="Shodan" />
   <img src="https://img.shields.io/badge/Maltego-000000?style=for-the-badge&logo=Maltego&logoColor=white" alt="Maltego" />
@@ -51,7 +51,7 @@
   <img src="https://img.shields.io/badge/Recon--NG-000?style=for-the-badge" alt="Recon-NG" />
 </p>
 
-#### [cite_start]Sistemas Operativos & Scripting [cite: 43, 44, 49]
+#### Sistemas Operativos & Scripting
 <p align="left">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=Kali-Linux&logoColor=white" alt="Kali Linux" />
   <img src="https://img.shields.io/badge/Parrot_OS-00A6E0?style=for-the-badge&logo=Parrot-Security&logoColor=white" alt="Parrot OS" />
@@ -60,7 +60,7 @@
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Scripting" />
 </p>
 
-#### [cite_start]Laboratorios & Virtualización [cite: 46]
+#### Laboratorios & Virtualización
 <p align="left">
   <img src="https://img.shields.io/badge/TryHackMe-881919?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="TryHackMe" />
   <img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=Hack-The-Box&logoColor=black" alt="Hack The Box" />
@@ -70,7 +70,7 @@
 
 ---
 
-### [cite_start]📜 Certificaciones [cite: 38]
+### 📜 Certificaciones 
 
 - **eLearning Junior Penetration Tester - eJPTv2**
 - **Certified ISO 27001 Internal Auditor - Certiprof**
