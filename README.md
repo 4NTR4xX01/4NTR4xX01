@@ -4,7 +4,7 @@
 <br>
 
 <p align="left">
-  Soy un Consultor en Seguridad Ofensiva en formación, apasionado por la ciberseguridad ofensiva. ]Cuento con experiencia práctica en pruebas de penetración, análisis de riesgos y simulación de ciberataques.
+  Soy un Consultor en Seguridad Ofensiva en formación, apasionado por la ciberseguridad ofensiva. Cuento con experiencia práctica en pruebas de penetración, análisis de riesgos y simulación de ciberataques.
 </p>
 <p align="left">
   Mi enfoque es proactivo, con capacidad demostrada para identificar vulnerabilidades críticas y proponer estrategias de mitigación efectivas. He liderado proyectos de capacitación técnica en hacking ético y actualmente lidero el proyecto universitario <strong>CyberSentinels</strong>, impartiendo talleres y desarrollando laboratorios prácticos.
