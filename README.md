@@ -2,7 +2,7 @@
   </p>
 
 <h1 align="center">Hola 👋, soy Eduardo Velazquez (4NTR4xX)</h1>
-<h3 align="center">Consultor en Seguridad Ofensiva | Penetration Tester | Creador de Contenido</h3>
+<h3 align="center">Consultor en Seguridad Ofensiva | Penetration Tester </h3>
 
 <br>
 
